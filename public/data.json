@@ -1,0 +1,12 @@
+[  
+  { "id": 1, "name": "iPhone 14 Pro", "price": 999, "best_selling": 980 },  
+  { "id": 2, "name": "Samsung Galaxy S23", "price": 899, "best_selling": 870 },  
+  { "id": 3, "name": "Google Pixel 7 Pro", "price": 799, "best_selling": 750 },  
+  { "id": 4, "name": "OnePlus 11", "price": 749, "best_selling": 920 },  
+  { "id": 5, "name": "Xiaomi 13 Pro", "price": 699, "best_selling": 640 },  
+  { "id": 6, "name": "Sony Xperia 1 V", "price": 1199, "best_selling": 800 },  
+  { "id": 7, "name": "Asus ROG Phone 6", "price": 1099, "best_selling": 730 },  
+  { "id": 8, "name": "Realme GT Neo 3", "price": 599, "best_selling": 560 },  
+  { "id": 9, "name": "Oppo Find X5 Pro", "price": 999, "best_selling": 900 },  
+  { "id": 10, "name": "Motorola Edge 30 Ultra", "price": 799, "best_selling": 680 }  
+]

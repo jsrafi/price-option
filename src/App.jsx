@@ -6,6 +6,7 @@ import Navigation from './Components/Nav/Navigation';
 import { TiThMenu } from "react-icons/ti";
 import { ImCross } from "react-icons/im";
 import PriceOptions from './Components/PriceOptions/PriceOptions';
+import Charts from './Components/chart-with-axios/Charts';
 
 function App() {
 
@@ -39,6 +40,7 @@ const pressMenue =()=>
         }
       </ul>
       <PriceOptions></PriceOptions>
+      <Charts></Charts>
     </>
   )
 }
